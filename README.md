@@ -41,3 +41,20 @@ The system automatically controls lighting, fan speed, and safety alerts based o
  - DC Motor Driver
  - Flame Sensor Driver
  - Buzzer Driver
+---
+
+## 🖼️ Project Images
+
+### 🧱 System Architecture
+This diagram shows the layered architecture of the system including application layer and drivers.
+
+![System Architecture](docs/architecture.jpg)
+
+---
+
+### 🧪 Proteus Simulation
+This image shows the full Proteus simulation including ATmega32, sensors, LCD, motor driver, LEDs, and buzzer.
+
+![Proteus Simulation](docs/simulation.jpg)
+
+---
